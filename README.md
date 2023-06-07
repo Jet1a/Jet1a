@@ -1,7 +1,7 @@
 Hi 🥯 am Jetta
 ==========================
 
-little boy
+Little boy
 -------
 
 I'm just a little boy who try to learn more
