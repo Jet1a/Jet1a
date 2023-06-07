@@ -1,7 +1,7 @@
-Hi 👋 am Jetta
+Hi 🥯 am Jetta
 ==========================
 
-Student
+little boy
 -------
 
 I'm just a little boy who try to learn more
