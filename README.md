@@ -1,4 +1,4 @@
-Hi 👋 My name is Jettaphum
+Hi 👋 am Jetta
 ==========================
 
 Student
@@ -8,7 +8,8 @@ I'm just a little boy who try to learn more
 
 *   🖥️  See my portfolio at [Personal Portfolio](http://jet1a.github.io/jettaphum/)
 *   ✉️  You can contact me at [jettaphumchan@gmail.com](mailto:jettaphumchan@gmail.com)
-*   🧠  I'm learning Python , Java , HTML , CSS , FIGMA### Skills 
+*   🧠  I'm (tryna) learning Python , Java , HTML , CSS , FIGMA 
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
