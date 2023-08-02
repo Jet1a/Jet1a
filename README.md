@@ -16,5 +16,3 @@ now I'm interesting to learning about becoming full-stack developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jet1a&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Jet1a&icon=0&color=9)](https://visitcount.itsvg.in)
