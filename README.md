@@ -50,11 +50,11 @@ School of Information Technology at KMUTT (SIT29)
 ###
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Jet1a?pet-id=663743034810632579"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jet1a&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Jet1a"
+  width="600"
+  height="300"
+/>
 </a>
   
