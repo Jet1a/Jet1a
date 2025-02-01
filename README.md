@@ -6,6 +6,7 @@
 
 - 2024.07 **IT Hackaton Project: Handshake** (FullStack) [💻repo](https://github.com/Jet1a/handshake-project)
 - 2024.09 **IT Sairahut (IT30)** (Frontend) [💻repo](https://github.com/Jet1a/sairahut-app)
+- 2024.12 **SIT Hello World 2025** (Frontend) [🌐helloworld2025](https://helloworld2025.sit.kmutt.ac.th/)
 - 2024.12 **Book Rental Website: Openshelf** (FullStack) [💻repo](https://github.com/Jet1a/openshelf)/[🌐openshelf web](https://openshelf-bay.vercel.app/)
  
 ### 👣 2025
