@@ -10,3 +10,4 @@
 - 2024.12 **Book Rental Website: Openshelf** (FullStack) [💻repo](https://github.com/Jet1a/openshelf)/[🌐openshelf web](https://openshelf-bay.vercel.app/)
  
 ### 👣 2025
+- 2024.12 **Movie Website: MooV** (Frontend) [💻repo](https://github.com/Jet1a/MooV)
