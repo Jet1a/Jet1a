@@ -1,7 +1,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jet1a&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Jet1a?pet-id=655798406338959069"
-    width="150"
+    width="200"
     height="250"
     align="right"
   />
