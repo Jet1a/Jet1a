@@ -1,6 +1,11 @@
-# Jettaphum Chantaweekhun
-
-**2nd-Year Student at School of Information Technology, KMUTT (IT29)**  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jet1a&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Jet1a?pet-id=655798406338959069"
+    width="150"
+    height="150"
+    align="right"
+  />
+</a>
 
 ### 🐾 2024 
 
