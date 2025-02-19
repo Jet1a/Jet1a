@@ -2,7 +2,7 @@
   <img
     src="https://render.gitanimals.org/lines/Jet1a?pet-id=655798406338959069"
     width="150"
-    height="150"
+    height="250"
     align="right"
   />
 </a>
