@@ -1,7 +1,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jet1a&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Jet1a?pet-id=655798406338959069"
-    width="200"
+    width="300"
     height="250"
     align="right"
   />
@@ -15,4 +15,5 @@
 - 2024.12 **Book Rental Website: Openshelf** (FullStack) [💻repo](https://github.com/Jet1a/openshelf)/[🌐openshelf web](https://openshelf-bay.vercel.app/)
  
 ### 👣 2025
-- 2025.02 **Movie Website: MooV** (Frontend) [💻repo](https://github.com/Jet1a/MooV)
+- 2025.02 **Vue Project: Word Chain game**
+- 2025.03 **Movie Website: MooV** (Frontend) [💻repo](https://github.com/Jet1a/MooV)
