@@ -17,4 +17,4 @@
 ### 👣 2025
 - 2025.02 **Vue Project: Word Chain game**
 - 2025.03 **Movie Website: MooV** (Frontend) [💻repo](https://github.com/Jet1a/MooV)
-- 2025.03 **IT3K 19 Website🔥**
+- 2025.03 **IT3K 19 Website🔥** [📑article](https://medium.com/@jettaphoom/experience-as-developer-for-it3k-56dce0f20fcd)
