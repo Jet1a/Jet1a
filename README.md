@@ -8,7 +8,7 @@
 </a>
 
 ### 🐾 2024 
-
+- 2024.05 **Cloning Website (HTML/CSS): Disney** (Frontend) [💻repo](https://github.com/Jet1a/disney_clone)/[🌐website](https://web-tech-copy.vercel.app/)
 - 2024.07 **IT Hackaton Project: Handshake** (FullStack) [💻repo](https://github.com/Jet1a/handshake-project)
 - 2024.09 **IT Sairahut (IT30)** (Frontend) [💻repo](https://github.com/Jet1a/sairahut-app)
 - 2024.12 **SIT Hello World 2025** (Frontend)
