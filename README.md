@@ -26,3 +26,5 @@
 - 2025.02 **Vue Project: Word Chain game** [🌐website](https://superb-trifle-26255d.netlify.app/)
 - 2025.03 **Movie Website: MooV** [💻repo](https://github.com/Jet1a/MooV)
 - 2025.03 **IT3K 19 Website🔥** [📑article](https://medium.com/@jettaphoom/experience-as-developer-for-it3k-56dce0f20fcd)
+- 2025.04 **Task Management Project** [💻repo](https://github.com/Jet1a/task_management)/[🌐website](https://task-management-delta-gray.vercel.app/task-management)
+- 2025.05 **Blog Website: BlogSpot** [💻repo](https://github.com/Jet1a/BlogSpot)
