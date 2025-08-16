@@ -1,8 +1,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jet1a&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Jet1a?pet-id=700202499944322966"
-    width="200"
-    height="250"
+    width="450"
+    height="300"
     align="right"
   />
 </a>
